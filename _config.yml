@@ -1,0 +1,14 @@
+layout_spectrum: 0.1612903
+color:
+  saturation: 0.1443224
+  lightness: 0.4754215
+  brandStrength: 0.6963949
+  rhythmicContrast: 0.2641566
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+typography_spectrum: 0.5719978
+name: Binary Ecstasy
