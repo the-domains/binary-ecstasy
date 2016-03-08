@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Binary Ecstasy]]></title>
+        <description><![CDATA[Binary Ecstasy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 08 Mar 2016 16:20:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[origin.]]></title>
+            <description><![CDATA[<h1>origin.</h1>]]></description>
+            <link>undefinedorigin/index.html</link>
+            <guid isPermaLink="false">429d69b5-af01-440e-82e5-b1b88969b7b4</guid>
+            <pubDate>Tue, 08 Mar 2016 16:19:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
